@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [DataDriven Framework]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+  </listeners>
+  <test name="Bank Manager Login Test(failed)">
+    <classes>
+      <class name="testcases.BankManagerLoginTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="loginAsBankManager"/>
+        </methods>
+      </class> <!-- testcases.BankManagerLoginTest -->
+    </classes>
+  </test> <!-- Bank Manager Login Test(failed) -->
+</suite> <!-- Failed suite [DataDriven Framework] -->

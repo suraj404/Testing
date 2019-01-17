@@ -1,0 +1,11 @@
+31/12/2017 22:57:02 devpinoyLogger Config properties loaded !!!
+31/12/2017 22:57:02 devpinoyLogger OR properties loaded !!!
+31/12/2017 22:57:11 devpinoyLogger Firefox Launched!!
+31/12/2017 22:57:13 devpinoyLogger Navigated to :http://www.way2automation.com/angularjs-protractor/banking/#/login
+31/12/2017 22:57:13 devpinoyLogger Clicking on an Element :bmlbutton_xpath
+31/12/2017 22:57:14 devpinoyLogger Clicking on an Element :addcustombutton_xpath
+31/12/2017 22:57:16 devpinoyLogger Typing in an element : fname_xpathentered value is :test
+31/12/2017 22:57:16 devpinoyLogger Typing in an element : lname_xpathentered value is :lname
+31/12/2017 22:57:16 devpinoyLogger Typing in an element : postcode_xpathentered value is :201001
+31/12/2017 22:57:17 devpinoyLogger Clicking on an Element :addbtn_xpath
+31/12/2017 22:57:18 devpinoyLogger Test execution completed
